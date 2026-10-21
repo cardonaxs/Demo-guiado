@@ -1,0 +1,24 @@
+{
+  "name": "demo-guiado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardonaxs/Demo-guiado.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cardonaxs/Demo-guiado/issues"
+  },
+  "homepage": "https://github.com/cardonaxs/Demo-guiado#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
